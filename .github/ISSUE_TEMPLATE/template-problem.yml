@@ -1,0 +1,22 @@
+name: Template problem
+description: Report a field, formula or usability problem using fictional data.
+body:
+  - type: input
+    id: tracker
+    attributes:
+      label: Tracker and cell
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps, expected result and actual result
+      description: Do not include customer data, evidence files or credentials.
+    validations:
+      required: true
+  - type: input
+    id: application
+    attributes:
+      label: Spreadsheet application and version
+    validations:
+      required: true

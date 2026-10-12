@@ -1,0 +1,9 @@
+ABZSECURE original GRC starter templates
+Version 1.0.0, 12 October 2026
+
+The six original blank trackers are distributed under the MIT license in LICENSE.txt. You may use, modify and redistribute them, including commercially, while retaining that license and copyright notice. This does not grant rights to the GRC application, brand names/logos, third-party standards or other website content.
+
+The trackers organize your records. They do not contain complete standards, provide legal advice, certify compliance, validate evidence or run automated monitoring. Adapt fields and scoring to your agreed scope and obtain qualified review when required. Supplied without warranties. Keep your completed copies private and do not share customer evidence, credentials or personal data in GitHub issues.
+
+Support and scoped assessment enquiries: contact@abzsecure.com
+Website: https://abzsecure.com/

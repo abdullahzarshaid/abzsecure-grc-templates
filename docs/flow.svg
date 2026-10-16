@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Scope, evidence, risk, remediation, review">
+<style>.b{fill:#121c2e;stroke:#26344a;stroke-width:2;rx:10}.t{font:600 16px Segoe UI,Helvetica,Arial,sans-serif;fill:#e6edf3}.s{font:13px Segoe UI,Helvetica,Arial,sans-serif;fill:#acbace}
+.p{stroke:#59ddbe;stroke-width:3;fill:none;stroke-dasharray:8 8;animation:dash 1.2s linear infinite}@keyframes dash{to{stroke-dashoffset:-16}}
+.dot{fill:#59ddbe;animation:run 6s linear infinite}@keyframes run{0%{transform:translateX(0)}100%{transform:translateX(960px)}}
+@keyframes glow{0%,100%{stroke:#26344a}50%{stroke:#59ddbe}}.g0{animation:glow 6s ease-in-out infinite;animation-delay:0.0s}.g1{animation:glow 6s ease-in-out infinite;animation-delay:1.2s}.g2{animation:glow 6s ease-in-out infinite;animation-delay:2.4s}.g3{animation:glow 6s ease-in-out infinite;animation-delay:3.5999999999999996s}.g4{animation:glow 6s ease-in-out infinite;animation-delay:4.8s}</style>
+<rect width="1200" height="150" fill="#0b1220"/>
+<rect class="b g0" x="30" y="40" width="200" height="70"/><text class="t" x="46" y="70">Scope</text><text class="s" x="46" y="94">what applies</text>
+<path class="p" d="M230 75 L270 75"/>
+<rect class="b g1" x="270" y="40" width="200" height="70"/><text class="t" x="286" y="70">Evidence</text><text class="s" x="286" y="94">what proves it</text>
+<path class="p" d="M470 75 L510 75"/>
+<rect class="b g2" x="510" y="40" width="200" height="70"/><text class="t" x="526" y="70">Risk</text><text class="s" x="526" y="94">what is exposed</text>
+<path class="p" d="M710 75 L750 75"/>
+<rect class="b g3" x="750" y="40" width="200" height="70"/><text class="t" x="766" y="70">Remediation</text><text class="s" x="766" y="94">who fixes it</text>
+<path class="p" d="M950 75 L990 75"/>
+<rect class="b g4" x="990" y="40" width="200" height="70"/><text class="t" x="1006" y="70">Review</text><text class="s" x="1006" y="94">decide again</text>
+<circle class="dot" cx="40" cy="20" r="5"/><text class="s" x="30" y="138">Six blank Excel trackers. Your copies stay private; nothing is uploaded.</text></svg>

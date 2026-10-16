@@ -29,7 +29,7 @@
 - **[Policy register](templates/policy-register.xlsx)**: Policies with version, approver, approval and next review dates. Columns: Policy ID, Policy title, Owner, Version, Document reference, Approval date, Next review, Status, Approver, Notes.
 - **[Assessment scope](templates/assessment-scope.xlsx)**: Applicable requirements, decisions, evidence references and rationale. Columns: Item ID, Requirement / question, Source / version, Applicability, Owner, Decision, Evidence reference, Reviewer, Review date, Rationale.
 
-Row 1 in each preview is a fictional example for orientation. The downloadable files are blank.
+Row 1 in each preview is a fictional example for orientation. The downloadable files are blank. The six files, `checksums.json` and a zip of all six are also attached to the [latest release](https://github.com/abdullahzarshaid/abzsecure-grc-templates/releases/latest), so a fixed version can be linked from a policy or a procedure.
 
 ## How the six connect
 
